@@ -1,0 +1,7 @@
+1. Place the eclipse pref files in folder 
+[workspace]/.metadata/.plugins/org.eclipse.core.runtime/.settings/
+2. Import the epf file through File -> Import -> Preferences
+3. All others can be imported through Eclipse Preferences
+4. For key bingins refer key-bindings.csv
+
+
